@@ -14,9 +14,10 @@ elif a < b:
 else:
      print("a est supérieur à b")
 
-     reponse = input("Fais decouvrir mon code à  tes amis Veux-tu recommencer ? (oui/non) : ").lower()
-if reponse != "oui":
-        print("Merci d'avoir utilisé mon programme !")
-        break 
+       reponse = input("Share my code to your friends. Do you want to continue ? (Yes/no) : ").lower()
+    if reponse != "oui":
+        print("Thanks your using my code  !")
+        break
+          
 
       
