@@ -1,10 +1,10 @@
 import math  # pour utiliser sqrt (racine carrée)
 
 while True:
-    print("Welcome! Here you can compare two numbers")
+    print("Welcome! Here you can compare two numbers y compris les racines carrées ")
 
-    a = float(input("Entrez la valeur de a : "))
-    b = float(input("Entrez la valeur de b : "))
+    a = eval(input("Entrez la valeur de a : "))
+    b = eval(input("Entrez la valeur de b : "))
 
     if a == b:
         print("a est égal à b")
