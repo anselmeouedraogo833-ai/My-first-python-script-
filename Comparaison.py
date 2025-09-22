@@ -19,5 +19,4 @@ if reponse != "oui":
         print("Merci d'avoir utilisé mon programme !")
         break 
 
-
       
